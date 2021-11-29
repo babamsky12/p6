@@ -1,6 +1,5 @@
 from random import randint
 import random
-from typing import
 
 FirstValue = random.randint (0, 99) 
 SecondValue = random.randint (0, 99)
